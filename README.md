@@ -1,4 +1,4 @@
-# AV BV 的Golang实现
+# B站（Bilibili）av、bv号 互转的Golang实现
 
 ## 原始算法
 作者：mcfx
